@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+
+# def word(city)
+
+# return city.reverse 
+
+# end 
+
+# word("Chicago")
+
+# `say word`
+
+puts "Hallo World"
+

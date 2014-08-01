@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Translator::VERSION
   spec.authors       = ["ekesas"]
   spec.email         = ["ekesas@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{It will take a word and return a reverse version of it.}
+  spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
