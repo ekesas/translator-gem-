@@ -1,15 +1,17 @@
 #!/usr/bin/env ruby
 
 
-# def word(city)
+def word(sentence)
 
-# return city.reverse 
+puts "Hallo " + sentence
 
-# end 
+puts sentence.reverse
 
-# word("Chicago")
+`say #{sentence.reverse}`
 
-# `say word`
+end 
 
-puts "Hallo World"
+word("Chicago is a great city")
+
+
 
